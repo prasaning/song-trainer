@@ -1,0 +1,9 @@
+scrapy
+beautifulsoup4
+torch
+transformers
+numpy
+pandas
+tqdm
+scikit-learn
+python-dotenv
